@@ -1,5 +1,11 @@
 # Job Scheduling Algorithms
 
+
+## Anggota Kelompok
+Fikri Rahmanda Noor - 103012380520
+Muhammad Idris - 103012380503
+Rifki Padilah - 103012380547
+
 ## Deskripsi
 
 Proyek ini membandingkan dua algoritma penjadwalan pekerjaan, yaitu algoritma Greedy dan Dynamic Programming, dalam hal waktu eksekusi untuk berbagai jumlah pekerjaan. Algoritma-algoritma tersebut digunakan untuk menjadwalkan pekerjaan berdasarkan waktu pemrosesan dan tanggal jatuh tempo (due date) untuk meminimalkan total keterlambatan.
